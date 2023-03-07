@@ -32,3 +32,7 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
   </a>
+  <a href="https://www.numpy.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+  </a>
+  
