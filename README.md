@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sriram
+- 👋 Hi, I’m @Venu
 - 👀 I’m interested in expolring new ideas.
 - 🌱 I’m currently studying in PSG College Of Technology pursing the course MSc.Data Science
-- 📫 How to reach me: eMail - [sriramsubramanian1968@gmail.com](mailto:sriramsubramanian1968@gmail.com)
-- 😄 Interests : Programming👨‍💻 | Movies🍿 | Football⚽ | Cricket 🏏
+- 📫 How to reach me: eMail - [venuvaishunair@gmail.com](mailto:venuvaishunair@gmail.com)
+- 😄 Interests : Programming👨‍💻 | Movies🍿 | Cricket 🏏
 - 🚴‍♂️ Hobby :  Cycling 🚴‍♂️
 
 
@@ -32,8 +32,3 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
   </a>
-  
-  <a>
-    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="Elastic Search" />
-  </a>
-</p>
